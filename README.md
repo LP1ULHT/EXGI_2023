@@ -4,12 +4,12 @@
 
 ## Conteúdo esperado:
 
-![](./img/menu_moodle.jpeg)
+![](./img/menu_moodle.png)
 
 ## Regras:
 
 - O aluno deverá implementar o código em C.
-- Quando chegamos no fim da árvore de opções, o programa deve imprimir `Opcao X escolhida`, onde `X` deve ser substituído pelo número da opção e volta a imprimir o menu.
+- Quando chegamos no fim da árvore de opções, o programa deve imprimir `Opcao X escolhida`, onde `X` deve ser substituído pelo número da opção `e volta a imprimir o menu`.
 - O menu de calendário deve imprimir o calendário conforme o diagrama acima e onde não houver eventos, mostrar `Nenhum evento`.
 
 ## Exemplo de execução:
