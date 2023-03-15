@@ -101,8 +101,3 @@ Opcao 4 escolhida
 ## Dicas:
 
 - O aluno pode usar funções para organizar, simplificar e reutilizar o código.
-
-## Entrega:
-
-- Pandora: https://saturn.ulusofona.pt/
-- Data limite: 24/03/2023 23:59:59
