@@ -37,7 +37,7 @@
 4 - Notas Exames 
 0 - Sair 
 >3
-Opcao 3 escolhida 
+Opcao 3 escolhido 
 1 - Anuncios
 2 - Aulas Teoricas
 3 - Aulas Praticas
@@ -75,7 +75,7 @@ Opcao 3 escolhida
 6 - Julho  
 0 - Sair 
 >4
-Opcao 4 escolhida 
+Opcao 4 escolhido 
 1 - Fevereiro 
 2 - Marco 
 3 - Abril 
