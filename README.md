@@ -65,7 +65,7 @@ Opcao 3 escolhido
 6 - Julho  
 0 - Sair 
 >6
-1-15 Avaliações Recurso  
+1-15 Avaliacoes Recurso  
 0 - Sair 
 1 - Fevereiro 
 2 - Marco 
