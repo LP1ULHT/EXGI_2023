@@ -9,7 +9,7 @@
 ## Regras:
 
 - O aluno deverá implementar o código em C.
-- Quando chegamos no fim da árvore de opções, o programa deve imprimir `Opcao X escolhido`, onde `X` deve ser substituído pelo número da opção `e volta a imprimir o menu`.
+- Quando chegamos no fim da árvore de opções, o programa deve imprimir `Opcao X escolhido`, onde `X` deve ser substituído pelo número da opção `e volta a exibir o menu`.
 - Quando alguma opção inválida for digitada, imprimir `Opcao Invalida` e voltar a exibir o menu.
 - O menu de calendário deve imprimir o calendário conforme o diagrama e, onde houver evento, exibir este no ecrã e voltar a imprimir o menu.
 - A opção `Sair` retorna ao nível anterior na árvore.
