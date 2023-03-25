@@ -144,7 +144,7 @@ Os dois ultimos testes pedem as seguinte alterações ao programa.
 3 - Aulas Praticas
 4 - Notas Exames 
 0 - Sair 
->1
+>0
 1 - Recursos Gerais
 2 - LP1
 3 - AED
